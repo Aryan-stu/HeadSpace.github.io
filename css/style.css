@@ -264,7 +264,7 @@ html{
     font-size: 20px;
     font-weight: 300px;
     text-decoration: none;
-    color: rgb(7, 54, 245);
+    color: white;
 }
 .link p:hover{
     text-decoration: underline;
