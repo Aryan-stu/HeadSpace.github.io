@@ -93,4 +93,8 @@
         border: 2px solid black;
         border-radius: 10px;
     }
+    .link{
+    text-align: center;
+    margin-bottom: 10px;
+    }
 }
