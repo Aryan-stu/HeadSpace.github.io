@@ -1,3 +1,3 @@
 # HeadSpace.github.io
-A Mental Health Website
-azure: https://salmon-island-050058810.3.azurestaticapps.net
+Welcome to Headspace, A Mental Health Website.
+Azure link: https://salmon-island-050058810.3.azurestaticapps.net
